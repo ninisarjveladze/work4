@@ -50,6 +50,7 @@ h1{
     font-size: 22px;
     text-align: center;
     color: #1F314F;
+    
 }
 p{
     font-style: normal;
@@ -57,4 +58,5 @@ p{
     font-size: 15px;
     text-align: center;
     color: #7D889E;
+    margin: 16px;
 }
